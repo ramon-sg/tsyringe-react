@@ -9,7 +9,7 @@ First you have to [install](https://github.com/microsoft/tsyringe#installation) 
 - `npm install --save tsyringe-react`
 - `yarn add tsyringe-react`
 
-## ´withInjection´ helper
+## `withInjection` helper
 
 A helper for register the function with the token and wrap the function with a `container.resolver`.
 
